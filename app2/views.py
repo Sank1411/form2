@@ -45,3 +45,4 @@ def delete_religion(request,id):
 # class ClassName(object):
 #     # """docstring for ."""
 #     model=
+# hello
